@@ -1,0 +1,4 @@
+# pip install -r requirements.txt
+
+numpy >= 1.24.3
+opencv-python >= 4.7.0.72
